@@ -1,7 +1,7 @@
-# welcome to my discord
+# 这是我的discord频道，你可以看到每个人使用的版本和更多
 https://discord.gg/HSdYmGy72U
 
-## this script
+## 这是脚本
 ```lua
 --[[
 $$\       $$\                                                                  $$\       $$\       
